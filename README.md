@@ -14,3 +14,10 @@ The model we use is a simple CNN architecture with the aim to classify between d
 * QUANTIZATION
 * CLUSTERING
 * DISTILLATION
+
+## Files
+- main.ipynb: main code and detailed description
+- final_model.h5: tf optimized model
+- final_model_cml: CoreML optimized model
+- run_model.py: script to use a single image for inference using CML model (for MacOS evironment)
+- fashion1.png: simple image as input to run_model.py
