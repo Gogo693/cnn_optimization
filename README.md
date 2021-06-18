@@ -9,4 +9,8 @@ The model we use is a simple CNN architecture with the aim to classify between d
 
 ## Optimization Solutions
 
-* 
+* REDUCE MODEL SIZE
+* PRUNING
+* QUANTIZATION
+* CLUSTERING
+* DISTILLATION
